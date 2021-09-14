@@ -9,8 +9,7 @@
 - [Dependencies](#dependencies)
 
 # **About**
-This was my second project at the *Queensland University of Technology*. *Gotham News* is a web scraper built in Python to aggregate news stories for convienent reading. The app pulls data from 2 static feeds and 2 live ones from the web.
-
+*Gotham News* is a web scraper script built in Python. The app pulls data from 2 static feeds and 2 live ones from the web. With the power of Regular Expressions and an easy-to-use GUI, users are able to aggregate their favourite RSS news feeds for convienent reading.
 
 # **Run**
 - Make sure you have a *Python* interpreter installed
