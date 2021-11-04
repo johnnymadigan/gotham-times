@@ -19,7 +19,7 @@
 - Run with `python3 news_aggregator.py`
 
 # **Usage**
-- Select your stories and click export
+- Select your stories and click export.
 
 ![project running animation](/readme-img/demonstration.gif)
 
@@ -28,4 +28,4 @@
 ![exported results](/readme-img/result.gif)
 
 # **Dependencies**
-Relies on *tkinter* and *Python3*. This project is very old so the latest ver
+Relies on *tkinter* and *Python3*.
