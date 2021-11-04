@@ -15,7 +15,7 @@
 - Make sure you have a *Python* interpreter installed
 - Launch your OS' terminal
 - Install *tkinter* for Python GUIs (`brew install python-tk`)
-- Navigate (`cd`) to the directory
+- Navigate into the directory
 - Run with `python3 news_aggregator.py`
 
 # **Usage**
