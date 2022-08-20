@@ -1,7 +1,6 @@
-![unit](https://img.shields.io/badge/Unit-Building%20IT%20Systems-ff69b4?style=plastic)
-![author](https://img.shields.io/badge/Author-Johnny%20Madigan-yellow?style=plastic)
 ![year](https://img.shields.io/badge/Year-2019-lightgrey?style=plastic)
-![python version](https://img.shields.io/badge/Python%20version-3-informational?style=plastic&logo=python)
+![author](https://img.shields.io/badge/Author-Johnny%20Madigan-yellow?style=plastic)
+![python](https://img.shields.io/badge/Python-informational?style=plastic&logo=python)
 
 - [About](#about)
 - [Run](#run)
